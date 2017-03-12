@@ -10,4 +10,4 @@ Demonstrate your ability to collect, work with, and clean a data set. The goal i
 <br>This repo explains how all of the scripts work and how they are connected.
 <br>
 <p><b>Dependencies</b>
-run_analysis.R depends on the reshape2 and data.table packages.
+<br>run_analysis.R depends on the reshape2 and data.table packages.
