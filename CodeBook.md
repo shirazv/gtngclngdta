@@ -37,11 +37,11 @@ The following files are available for the train and test data. Their description
 
 <b>Transformation Details</b>
 <br>
-1. Merges the training and test sets to create single data set.
-2. Extracts only measurements on  mean and standard deviation.
-3. Uses descriptive activity names to name the activities in the data set
-4. Labels the data set with descriptive activity names.
-5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+<br>1. Merges the training and test sets to create single data set.
+<br>2. Extracts only measurements on  mean and standard deviation.
+<br>3. Uses descriptive activity names to name the activities in the data set
+<br>4. Labels the data set with descriptive activity names.
+<br>5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 <b>Requirments for run_analysis.R</b>
 <br>
